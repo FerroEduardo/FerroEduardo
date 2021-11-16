@@ -1,3 +1,5 @@
+<div align="center" style="display: inline_block">
+  
 ### System.out.println("Hi there 👋")
 
 ### :gear:  GitHub Analytics
@@ -9,8 +11,11 @@
 
 <br>
 
+  
 |                  Outros Projetos/Contribuições                  |                  Descrição                  |
 |:-------------------------------------------------:|:-------------------------------------------------:|
 |[SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria](https://github.com/Softawii/SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria)| Sistema utilizado para aplicar padrões de desenvolvimento |
 |[Malloqueiro](https://github.com/Softawii/Malloqueiro)| Malloc customizado |
 |[algorithms-comparison](https://github.com/Softawii/algorithms-comparison)| Relatório comparando dois algoritmos de ordenação  |
+  
+</div>
