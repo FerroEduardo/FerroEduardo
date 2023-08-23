@@ -22,6 +22,7 @@
          - Criadas sob demanda
          - Controle de salas: limite de usuários, visibilidade, banimentos e se é temporária
     - Sistema de automação de controle de cargos e templates de categorias
+    - Utiliza o Curupira como base
 
 </details>
 
