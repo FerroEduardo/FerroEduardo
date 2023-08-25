@@ -34,6 +34,9 @@
       - Alternativa ao malloc do glibc
   - [algorithms-comparison](https://github.com/Softawii/algorithms-comparison)
       - Relatório comparando o desempenho do Merge Sort e Quick Sort
+  - [Ginga-NCL CS:GO Spectator](https://github.com/Softawii/ginga-csgo-spectator)
+      - This application tries to simulate a CS:GO spectator using Ginga-NCL.
+      - "Ginga® is the middleware of the Japanese-Brazilian Digital TV System (ISDB-TB) and ITU-T Recommendation for IPTV services."
   - [Computing Together](https://github.com/CACC-Rural/semana-academica-front-end)
       - Site para a semana acadêmica do curso de Ciência da Computação da UFRRJ
 </details>
