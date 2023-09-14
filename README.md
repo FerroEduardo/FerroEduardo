@@ -15,6 +15,7 @@
 # Principais Projetos
 - [**SACI PeReRe**](https://github.com/softawii/saci-perere) (TCC) - Sistema de Auxílio à Comunicação Interativa para Perguntas e Respostas Recorrentes
     - SACI PeReRe é um sistema de chatbot para auxiliar os servidores de universidades públicas na tarefa de responder perguntas frequentes
+- [***Social Club*](https://github.com/FerroEduardo/social-club) - Uma plataforma de mídia social focada em jogos para compartilhar screenshots e artes
 - [**Curupira**](https://github.com/softawii/curupira) - Biblioteca de nossa autoria para abstrair os eventos do JDA
 - [**Capivara**](https://github.com/softawii/capivara) - Bot para Discord para gerenciamento de servidores
     - Sistema de geração de salas
