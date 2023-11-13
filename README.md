@@ -23,12 +23,15 @@
          - Controle de salas: limite de usuários, visibilidade, banimentos e se é temporária
     - Sistema de automação de controle de cargos e templates de categorias
     - Utiliza o Curupira como base
+- [**code-runner**](https://github.com/FerroEduardo/code-runner) - Automating code execution and testing using pull requests and GitHub Actions
 
 </details>
 
 <details>
   <summary>Outras contribuições</summary>
   
+  - [**micronaut-todo**](https://github.com/FerroEduardo/micronaut-todo) - To Do list utilizando Micronaut
+  - [**superhero-api**](https://github.com/FerroEduardo/superhero-api) - CRUD utilizando ASP.NET
   - [SAMU](https://github.com/Softawii/SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria) - Sistema de Auxilio a Matricula Universitaria
       - Sistema utilizado para aplicar padrões de desenvolvimento
   - [Malloqueiro](https://github.com/Softawii/Malloqueiro)
