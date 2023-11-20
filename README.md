@@ -22,7 +22,7 @@
          - Criadas sob demanda
          - Controle de salas: limite de usuários, visibilidade, banimentos e se é temporária
     - Sistema de automação de controle de cargos e templates de categorias
-    - Utiliza o Curupira como base
+    - Utiliza o [Curupira](https://github.com/Softawii/curupira) como base
 - [**code-runner**](https://github.com/FerroEduardo/code-runner) - Automating code execution and testing using pull requests and GitHub Actions
 
 </details>
