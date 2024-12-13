@@ -15,21 +15,23 @@
 # Principais Projetos
 - [**SACI PeReRe**](https://github.com/softawii/saci-perere) (TCC) - Sistema de Auxílio à Comunicação Interativa para Perguntas e Respostas Recorrentes
     - SACI PeReRe é um sistema de chatbot para auxiliar os servidores de universidades públicas na tarefa de responder perguntas frequentes
+- [**bskye**](https://github.com/FerroEduardo/bskye) - Bluesky link previews enhancer for Discord
+    - Serverless service developed with [Cloudflare Workers](https://workers.cloudflare.com)
+- [**TwitchSentimentAnalysis**](https://github.com/FerroEduardo/TwitchSentimentAnalysis) - Real-time sentiment analysis of Twitch chat messages with interactive visualization and monitoring
 - [**Social Club**](https://github.com/FerroEduardo/social-club) - Uma plataforma de mídia social focada em jogos para compartilhar screenshots e artes
-- [**Curupira**](https://github.com/softawii/curupira) - Biblioteca de nossa autoria para abstrair os eventos do JDA
+- [**Curupira**](https://github.com/softawii/curupira) - Framework para abstrair os eventos do [JDA](https://github.com/discord-jda/JDA)
 - [**Capivara**](https://github.com/softawii/capivara) - Bot para Discord para gerenciamento de servidores
     - Sistema de geração de salas
          - Criadas sob demanda
          - Controle de salas: limite de usuários, visibilidade, banimentos e se é temporária
-    - Sistema de automação de controle de cargos e templates de categorias
     - Utiliza o [Curupira](https://github.com/Softawii/curupira) como base
-- [**code-runner**](https://github.com/FerroEduardo/code-runner) - Automating code execution and testing using pull requests and GitHub Actions
 
 </details>
 
 <details>
   <summary>Outras contribuições</summary>
   
+  - [**code-runner**](https://github.com/FerroEduardo/code-runner) - Automating code execution and testing using pull requests and GitHub Actions
   - [**micronaut-todo**](https://github.com/FerroEduardo/micronaut-todo) - To Do list utilizando Micronaut
   - [**superhero-api**](https://github.com/FerroEduardo/superhero-api) - CRUD utilizando ASP.NET
   - [SAMU](https://github.com/Softawii/SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria) - Sistema de Auxilio a Matricula Universitaria
