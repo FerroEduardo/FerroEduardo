@@ -12,37 +12,36 @@
 <br>
 </div>
 
-# Principais Projetos
-- [**SACI PeReRe**](https://github.com/softawii/saci-perere) (TCC) - Sistema de Auxílio à Comunicação Interativa para Perguntas e Respostas Recorrentes
-    - SACI PeReRe é um sistema de chatbot para auxiliar os servidores de universidades públicas na tarefa de responder perguntas frequentes
+# Projects
+- [**SACI PeReRe**](https://github.com/softawii/saci-perere) (TCC/Final Project) - **S**istema de **A**uxílio à **C**omunicação **I**nterativa para **Pe**rguntas e **Re**spostas **Re**correntes
+    - SACI PeReRe is a chatbot system to help public university staff with the task of answering frequently asked questions
 - [**bskye**](https://github.com/FerroEduardo/bskye) - Bluesky link previews enhancer for Discord
     - Serverless service developed with [Cloudflare Workers](https://workers.cloudflare.com)
 - [**TwitchSentimentAnalysis**](https://github.com/FerroEduardo/TwitchSentimentAnalysis) - Real-time sentiment analysis of Twitch chat messages with interactive visualization and monitoring
-- [**Social Club**](https://github.com/FerroEduardo/social-club) - Uma plataforma de mídia social focada em jogos para compartilhar screenshots e artes
-- [**Curupira**](https://github.com/softawii/curupira) - Framework para abstrair os eventos do [JDA](https://github.com/discord-jda/JDA)
-- [**Capivara**](https://github.com/softawii/capivara) - Bot para Discord para gerenciamento de servidores
-    - Sistema de geração de salas
-         - Criadas sob demanda
-         - Controle de salas: limite de usuários, visibilidade, banimentos e se é temporária
-    - Utiliza o [Curupira](https://github.com/Softawii/curupira) como base
+- [**SlideForge**](https://github.com/FerroEduardo/SlideForge) - Service for generating professional presentation slides from plain text input 
+- [**Social Club**](https://github.com/FerroEduardo/social-club) - A gaming-focused social media platform for sharing screenshots and artwork
+- [**Curupira**](https://github.com/softawii/curupira) - Framework to abstract [JDA](https://github.com/discord-jda/JDA) events
+- [**Capivara**](https://github.com/softawii/capivara) - Discord bot for server management
+    - Room generation system
+         - Created on demand
+         - Room control: user limit, visibility, bans and temporary rooms
+    - Uses [Curupira](https://github.com/Softawii/curupira) as a base
 
 </details>
 
 <details>
-  <summary>Outras contribuições</summary>
+  <summary>Another cool projects</summary>
   
   - [**code-runner**](https://github.com/FerroEduardo/code-runner) - Automating code execution and testing using pull requests and GitHub Actions
-  - [**micronaut-todo**](https://github.com/FerroEduardo/micronaut-todo) - To Do list utilizando Micronaut
-  - [**superhero-api**](https://github.com/FerroEduardo/superhero-api) - CRUD utilizando ASP.NET
-  - [SAMU](https://github.com/Softawii/SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria) - Sistema de Auxilio a Matricula Universitaria
-      - Sistema utilizado para aplicar padrões de desenvolvimento
-  - [Malloqueiro](https://github.com/Softawii/Malloqueiro)
-      - Alternativa ao malloc do glibc
-  - [algorithms-comparison](https://github.com/Softawii/algorithms-comparison)
-      - Relatório comparando o desempenho do Merge Sort e Quick Sort
-  - [Ginga-NCL CS:GO Spectator](https://github.com/Softawii/ginga-csgo-spectator)
+  - [**SAMU**](https://github.com/Softawii/SAMU-Sistema-de-Auxilio-a-Matricula-Universitaria) - Sistema de Auxilio a Matricula Universitaria
+      - System developed to apply design patterns
+  - [**Malloqueiro**](https://github.com/Softawii/Malloqueiro)
+      - Alternative to glibc malloc
+  - [**algorithms-comparison**](https://github.com/Softawii/algorithms-comparison)
+      - Report comparing the performance of Merge Sort and Quick Sort
+  - [**Ginga-NCL CS:GO Spectator**](https://github.com/Softawii/ginga-csgo-spectator)
       - This application tries to simulate a CS:GO spectator using Ginga-NCL.
-      - "Ginga® is the middleware of the Japanese-Brazilian Digital TV System (ISDB-TB) and ITU-T Recommendation for IPTV services."
-  - [Computing Together](https://github.com/CACC-Rural/semana-academica-front-end)
-      - Site para a semana acadêmica do curso de Ciência da Computação da UFRRJ
+      - "[Ginga®](https://github.com/TeleMidia/ginga) is the middleware of the Japanese-Brazilian Digital TV System (ISDB-TB) and ITU-T Recommendation for IPTV services."
+  - [**Computing Together**](https://github.com/CACC-Rural/semana-academica-front-end)
+      - Website for the academic week of the Computer Science course at UFRRJ
 </details>
